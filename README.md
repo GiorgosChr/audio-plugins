@@ -4,7 +4,7 @@ Third-party audio plugins installed on my Mac, grouped by type.
 
 Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live inside `REAPER.app` and aren't installed system-wide) and Apple's stock Audio Units in `/System/Library/Components`.
 
-**36 plugins** scanned from:
+**38 plugins** scanned from:
 
 - `/Library/Audio/Plug-Ins/{VST,VST3,Components}`
 - `~/Library/Audio/Plug-Ins/{VST3,Components}`
@@ -40,6 +40,7 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 | --- | --- | --- | --- |
 | Limited-Z v2 | LVC-Audio | VST2, VST3, AU, AAX | [lvcaudio.com](https://lvcaudio.com/plugins/limited-z/) |
 | Micro Limiter | Purafied Audio | VST3, AU, AAX | [purafied.com](https://purafied.com/products/purafied-micro-limiter) |
+| LoudMax | Thomas Mundt | VST2, VST3, AU | [loudmax.blogspot.com](https://loudmax.blogspot.com/) |
 
 ## Channel Strip
 
@@ -106,6 +107,12 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 | Kontakt 7 | Native Instruments | VST3, AU, AAX | [native-instruments.com](https://www.native-instruments.com/products/kontakt) |
 | Addictive Keys | XLN Audio | VST2, VST3, AU, AAX | [xlnaudio.com](https://www.xlnaudio.com/products/addictive_keys) |
 
+## Instruments — Bass
+
+| Plugin | Developer | Formats | Link |
+| --- | --- | --- | --- |
+| Circvit Bass | CIRCVIT | VST2, VST3, AU | [circvit.com](https://circvit.com/plugins/bass/) |
+
 ## Instruments — Drums
 
 | Plugin | Developer | Formats | Link |
@@ -131,4 +138,4 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 | Dusk Audio | 4 |
 | Native Instruments | 3 |
 | Neural DSP | 2 |
-| Others (1 each) | 14 |
+| Others (1 each) | 16 |
