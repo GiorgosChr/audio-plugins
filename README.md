@@ -4,7 +4,7 @@ Third-party audio plugins installed on my Mac, grouped by type.
 
 Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live inside `REAPER.app` and aren't installed system-wide) and Apple's stock Audio Units in `/System/Library/Components`.
 
-**38 plugins** scanned from:
+**39 plugins** scanned from:
 
 - `/Library/Audio/Plug-Ins/{VST,VST3,Components}`
 - `~/Library/Audio/Plug-Ins/{VST3,Components}`
@@ -17,6 +17,7 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 | Plugin | Developer | Formats | Link |
 | --- | --- | --- | --- |
 | Multi-Q | Dusk Audio | AU | [duskaudio.com](https://duskaudio.com/plugins/multi-q/) |
+| Orra Tone Zone | Orra Audio | VST3, AU, AAX | [orraaudio.com](https://www.orraaudio.com/products/orra-tone-zone) |
 | ZL Equalizer | ZL Audio | VST3, AU, AAX | [github.com/ZL-Audio](https://github.com/ZL-Audio/ZLEqualizer) |
 | POORTEC | Analog Obsession | VST3, AU, AAX | [patreon.com](https://www.patreon.com/posts/poortec-119632465) |
 | GrapHack | Analog Obsession | VST3, AU, AAX | [patreon.com](https://www.patreon.com/posts/graphack-80663451) |
@@ -138,4 +139,4 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 | Dusk Audio | 4 |
 | Native Instruments | 3 |
 | Neural DSP | 2 |
-| Others (1 each) | 16 |
+| Others (1 each) | 17 |
