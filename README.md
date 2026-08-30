@@ -4,7 +4,7 @@ Third-party audio plugins installed on my Mac, grouped by type.
 
 Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live inside `REAPER.app` and aren't installed system-wide) and Apple's stock Audio Units in `/System/Library/Components`.
 
-**39 plugins** scanned from:
+**43 plugins** scanned from:
 
 - `/Library/Audio/Plug-Ins/{VST,VST3,Components}`
 - `~/Library/Audio/Plug-Ins/{VST3,Components}`
@@ -42,6 +42,7 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 | Limited-Z v2 | LVC-Audio | VST2, VST3, AU, AAX | [lvcaudio.com](https://lvcaudio.com/plugins/limited-z/) |
 | Micro Limiter | Purafied Audio | VST3, AU, AAX | [purafied.com](https://purafied.com/products/purafied-micro-limiter) |
 | LoudMax | Thomas Mundt | VST2, VST3, AU | [loudmax.blogspot.com](https://loudmax.blogspot.com/) |
+| Big Max Zero | Big Man Labs | VST3, AU | [bigman-labs.com](https://www.bigman-labs.com/products/big-max-zero/) |
 
 ## Channel Strip
 
@@ -56,6 +57,7 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 | TapeMachine | Dusk Audio | AU | [duskaudio.com](https://duskaudio.com/plugins/tapemachine/) |
 | DEATHWESTERN | Purafied Audio | VST3, AU, AAX | [purafied.com](https://purafied.com/products/purafied-deathwestern) |
 | BOD (Bass Overdrive) | TSE Audio | VST2, AU, AAX | [tseaudio.com](https://www.tseaudio.com/software/tseBOD) |
+| KrystalClip | Krystal Dynamics | VST3, AU | [krystaldynamics.com](https://krystaldynamics.com/plugins/krystal-clip.html) |
 
 ## Enhancers / Exciters
 
@@ -77,6 +79,13 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 | Plugin | Developer | Formats | Link |
 | --- | --- | --- | --- |
 | Deelay | Sixth Sample | VST3, AU, AAX | [sixthsample.com](https://sixthsample.com/deelay/) |
+| Echowaves | ZAK Sound | VST3, AU | [zaksound.com](https://zaksound.com/echowaves) |
+
+## Modulation / Volume Shaping
+
+| Plugin | Developer | Formats | Link |
+| --- | --- | --- | --- |
+| Okay Shaper | Okay Synthesizer | VST3, AU | [okaysynthesizer.com](https://okaysynthesizer.com/shaper) |
 
 ## Spatial / Immersive
 
@@ -139,4 +148,4 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 | Dusk Audio | 4 |
 | Native Instruments | 3 |
 | Neural DSP | 2 |
-| Others (1 each) | 17 |
+| Others (1 each) | 21 |
