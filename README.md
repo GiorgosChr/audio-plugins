@@ -4,7 +4,7 @@ Third-party audio plugins installed on my Mac, grouped by type.
 
 Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live inside `REAPER.app` and aren't installed system-wide) and Apple's stock Audio Units in `/System/Library/Components`.
 
-**43 plugins** scanned from:
+**46 plugins** scanned from:
 
 - `/Library/Audio/Plug-Ins/{VST,VST3,Components}`
 - `~/Library/Audio/Plug-Ins/{VST3,Components}`
@@ -87,6 +87,19 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 | --- | --- | --- | --- |
 | Okay Shaper | Okay Synthesizer | VST3, AU | [okaysynthesizer.com](https://okaysynthesizer.com/shaper) |
 
+## Glitch / Creative FX
+
+| Plugin | Developer | Formats | Link |
+| --- | --- | --- | --- |
+| Fracture | Glitchmachines | VST3, AU | [glitchmachines.com](https://glitchmachines.com/products/fracture/) |
+| Hysteresis | Glitchmachines | VST3, AU | [glitchmachines.com](https://glitchmachines.com/products/hysteresis/) |
+
+## Metering / Analysis
+
+| Plugin | Developer | Formats | Link |
+| --- | --- | --- | --- |
+| Youlean Loudness Meter 2 | Youlean | VST2, VST3, AU, AAX | [youlean.co](https://youlean.co/youlean-loudness-meter/) |
+
 ## Spatial / Immersive
 
 | Plugin | Developer | Formats | Link |
@@ -148,4 +161,5 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 | Dusk Audio | 4 |
 | Native Instruments | 3 |
 | Neural DSP | 2 |
-| Others (1 each) | 21 |
+| Glitchmachines | 2 |
+| Others (1 each) | 22 |
