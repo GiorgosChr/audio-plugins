@@ -4,7 +4,7 @@ Third-party audio plugins installed on my Mac, grouped by type.
 
 Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live inside `REAPER.app` and aren't installed system-wide) and Apple's stock Audio Units in `/System/Library/Components`.
 
-**46 plugins** scanned from:
+**47 plugins** scanned from:
 
 - `/Library/Audio/Plug-Ins/{VST,VST3,Components}`
 - `~/Library/Audio/Plug-Ins/{VST3,Components}`
@@ -94,6 +94,12 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 | Fracture | Glitchmachines | VST3, AU | [glitchmachines.com](https://glitchmachines.com/products/fracture/) |
 | Hysteresis | Glitchmachines | VST3, AU | [glitchmachines.com](https://glitchmachines.com/products/hysteresis/) |
 
+## Visualization
+
+| Plugin | Developer | Formats | Link |
+| --- | --- | --- | --- |
+| Visual Lab (Lite) | Greyland Audio | VST3, AU | [greylandaudio.com](https://greylandaudio.com/products/visual-lab-lite) |
+
 ## Metering / Analysis
 
 | Plugin | Developer | Formats | Link |
@@ -162,4 +168,4 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 | Native Instruments | 3 |
 | Neural DSP | 2 |
 | Glitchmachines | 2 |
-| Others (1 each) | 22 |
+| Others (1 each) | 23 |
