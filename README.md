@@ -4,7 +4,7 @@ Third-party audio plugins installed on my Mac, grouped by type.
 
 Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live inside `REAPER.app` and aren't installed system-wide) and Apple's stock Audio Units in `/System/Library/Components`.
 
-**47 plugins** scanned from:
+**59 plugins** scanned from:
 
 - `/Library/Audio/Plug-Ins/{VST,VST3,Components}`
 - `~/Library/Audio/Plug-Ins/{VST3,Components}`
@@ -24,6 +24,11 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 | SLP 538 EQ | Purafied Audio | VST3, AU, AAX | [purafied.com](https://purafied.com/products/purafied-slp-538-eq) |
 | bx_subfilter | Plugin Alliance | VST2, VST3, AU, AAX | [plugin-alliance.com](https://www.plugin-alliance.com/products/bx_subfilter) |
 | MultiBandEQ | GiorgosChr (own build) | VST3, AU | [github.com/GiorgosChr](https://github.com/GiorgosChr/MultiBandEQ) |
+| RF-EQ1-A — Program EQ (Relic) | RiverFlux Audio | VST3, AU | [riverfluxaudio.com](https://riverfluxaudio.com/relic) |
+| RF-MQ-5 — Mid EQ (Relic) | RiverFlux Audio | VST3, AU | [riverfluxaudio.com](https://riverfluxaudio.com/relic) |
+| RF-55A — 3-Band EQ (Relic) | RiverFlux Audio | VST3, AU | [riverfluxaudio.com](https://riverfluxaudio.com/relic) |
+| RF-56 — Graphic EQ (Relic) | RiverFlux Audio | VST3, AU | [riverfluxaudio.com](https://riverfluxaudio.com/relic) |
+| RF-73 — Mic Pre EQ (Relic) | RiverFlux Audio | VST3, AU | [riverfluxaudio.com](https://riverfluxaudio.com/relic) |
 
 ## Dynamics — Compressors
 
@@ -34,6 +39,10 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 | TheBus | Analog Obsession | VST3, AU, AAX | [patreon.com](https://www.patreon.com/analogobsession/posts/thebus-163129163) |
 | LED Compressor | Purafied Audio | VST3, AU, AAX | [purafied.com](https://purafied.com/products/purafied-led-compressor) |
 | VU Compressor | Purafied Audio | VST3, AU, AAX | [purafied.com](https://purafied.com/products/purafied-audio-vu-compressor) |
+| RF-16VU — VCA Comp (Relic) | RiverFlux Audio | VST3, AU | [riverfluxaudio.com](https://riverfluxaudio.com/relic) |
+| RF-1B — Tube Opto (Relic) | RiverFlux Audio | VST3, AU | [riverfluxaudio.com](https://riverfluxaudio.com/relic) |
+| RF-2A — Optical Comp (Relic) | RiverFlux Audio | VST3, AU | [riverfluxaudio.com](https://riverfluxaudio.com/relic) |
+| RF-67 — Tube Vari-Mu (Relic) | RiverFlux Audio | VST3, AU | [riverfluxaudio.com](https://riverfluxaudio.com/relic) |
 
 ## Dynamics — Limiters
 
@@ -43,6 +52,7 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 | Micro Limiter | Purafied Audio | VST3, AU, AAX | [purafied.com](https://purafied.com/products/purafied-micro-limiter) |
 | LoudMax | Thomas Mundt | VST2, VST3, AU | [loudmax.blogspot.com](https://loudmax.blogspot.com/) |
 | Big Max Zero | Big Man Labs | VST3, AU | [bigman-labs.com](https://www.bigman-labs.com/products/big-max-zero/) |
+| RF-76 — FET Limiter (Relic) | RiverFlux Audio | VST3, AU | [riverfluxaudio.com](https://riverfluxaudio.com/relic) |
 
 ## Channel Strip
 
@@ -58,6 +68,8 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 | DEATHWESTERN | Purafied Audio | VST3, AU, AAX | [purafied.com](https://purafied.com/products/purafied-deathwestern) |
 | BOD (Bass Overdrive) | TSE Audio | VST2, AU, AAX | [tseaudio.com](https://www.tseaudio.com/software/tseBOD) |
 | KrystalClip | Krystal Dynamics | VST3, AU | [krystaldynamics.com](https://krystaldynamics.com/plugins/krystal-clip.html) |
+| RF-A80 — Two-Inch Tape (Relic) | RiverFlux Audio | VST3, AU | [riverfluxaudio.com](https://riverfluxaudio.com/relic) |
+| RF-AT12 — Master Tape (Relic) | RiverFlux Audio | VST3, AU | [riverfluxaudio.com](https://riverfluxaudio.com/relic) |
 
 ## Enhancers / Exciters
 
@@ -156,12 +168,14 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 - **Analog Obsession** distributes through Patreon, so those links point to the developer's Patreon posts (linked from the category pages on [analogobsession.com](https://analogobsession.com/)). They may return 403 to automated checkers but load fine in a browser.
 - **Kontakt 7 and 8** share one product page — Native Instruments redirects version-specific URLs to [/products/kontakt](https://www.native-instruments.com/products/kontakt).
 - **The Panda Rooms** and its mid/side variant ship from the same product page.
+- **RiverFlux Audio**'s twelve `RF-*` units ship as one free bundle, [Relic](https://riverfluxaudio.com/relic); they have no separate product pages.
 - **Dear Reality** is now part of Sennheiser; `dear-reality.com` product URLs redirect to Sennheiser's Dear Reality pages.
 
 ## Counts by developer
 
 | Developer | Plugins |
 | --- | --- |
+| RiverFlux Audio | 12 |
 | Purafied Audio | 7 |
 | Analog Obsession | 6 |
 | Dusk Audio | 4 |
