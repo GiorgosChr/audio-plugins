@@ -4,6 +4,8 @@ Third-party audio plugins installed on my Mac, grouped by type.
 
 Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live inside `REAPER.app` and aren't installed system-wide) and Apple's stock Audio Units in `/System/Library/Components`.
 
+Also available grouped by developer: [BRANDS.md](BRANDS.md).
+
 **59 plugins** scanned from:
 
 - `/Library/Audio/Plug-Ins/{VST,VST3,Components}`
@@ -176,10 +178,10 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 | Developer | Plugins |
 | --- | --- |
 | RiverFlux Audio | 12 |
-| Purafied Audio | 7 |
+| Purafied Audio | 8 |
 | Analog Obsession | 6 |
 | Dusk Audio | 4 |
 | Native Instruments | 3 |
-| Neural DSP | 2 |
 | Glitchmachines | 2 |
-| Others (1 each) | 23 |
+| Neural DSP | 2 |
+| Others (1 each) | 22 |
