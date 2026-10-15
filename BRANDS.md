@@ -1,6 +1,6 @@
 # Plugins by Brand
 
-The same 59 plugins as [README.md](README.md), grouped by developer instead of by type.
+The same 60 plugins as [README.md](README.md), grouped by developer instead of by type.
 
 **29 developers.**
 
@@ -8,7 +8,7 @@ The same 59 plugins as [README.md](README.md), grouped by developer instead of b
 | --- | --- |
 | [RiverFlux Audio](#riverflux-audio) | 12 |
 | [Purafied Audio](#purafied-audio) | 8 |
-| [Analog Obsession](#analog-obsession) | 6 |
+| [Analog Obsession](#analog-obsession) | 7 |
 | [Dusk Audio](#dusk-audio) | 4 |
 | [Native Instruments](#native-instruments) | 3 |
 | [Glitchmachines](#glitchmachines) | 2 |
@@ -76,6 +76,7 @@ The same 59 plugins as [README.md](README.md), grouped by developer instead of b
 | CHANNEV | Channel Strip | VST3, AU, AAX | [patreon.com](https://www.patreon.com/analogobsession/posts/channev-52960238) |
 | GrapHack | EQ | VST3, AU, AAX | [patreon.com](https://www.patreon.com/posts/graphack-80663451) |
 | LOVEND | Enhancers / Exciters | VST3, AU, AAX | [patreon.com](https://www.patreon.com/posts/34669483) |
+| MoMa | Saturation / Tape / Distortion | VST3, AU, AAX | [patreon.com](https://www.patreon.com/posts/100041804) |
 | POORTEC | EQ | VST3, AU, AAX | [patreon.com](https://www.patreon.com/posts/poortec-119632465) |
 | TheBus | Dynamics — Compressors | VST3, AU, AAX | [patreon.com](https://www.patreon.com/analogobsession/posts/thebus-163129163) |
 

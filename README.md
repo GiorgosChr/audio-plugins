@@ -6,7 +6,7 @@ Excludes REAPER's bundled effects (ReaEQ, ReaComp, ReaVerb, etc. — these live 
 
 Also available grouped by developer: [BRANDS.md](BRANDS.md).
 
-**59 plugins** scanned from:
+**60 plugins** scanned from:
 
 - `/Library/Audio/Plug-Ins/{VST,VST3,Components}`
 - `~/Library/Audio/Plug-Ins/{VST3,Components}`
@@ -70,6 +70,7 @@ Also available grouped by developer: [BRANDS.md](BRANDS.md).
 | DEATHWESTERN | Purafied Audio | VST3, AU, AAX | [purafied.com](https://purafied.com/products/purafied-deathwestern) |
 | BOD (Bass Overdrive) | TSE Audio | VST2, AU, AAX | [tseaudio.com](https://www.tseaudio.com/software/tseBOD) |
 | KrystalClip | Krystal Dynamics | VST3, AU | [krystaldynamics.com](https://krystaldynamics.com/plugins/krystal-clip.html) |
+| MoMa | Analog Obsession | VST3, AU, AAX | [patreon.com](https://www.patreon.com/posts/100041804) |
 | RF-A80 — Two-Inch Tape (Relic) | RiverFlux Audio | VST3, AU | [riverfluxaudio.com](https://riverfluxaudio.com/relic) |
 | RF-AT12 — Master Tape (Relic) | RiverFlux Audio | VST3, AU | [riverfluxaudio.com](https://riverfluxaudio.com/relic) |
 
@@ -179,7 +180,7 @@ Also available grouped by developer: [BRANDS.md](BRANDS.md).
 | --- | --- |
 | RiverFlux Audio | 12 |
 | Purafied Audio | 8 |
-| Analog Obsession | 6 |
+| Analog Obsession | 7 |
 | Dusk Audio | 4 |
 | Native Instruments | 3 |
 | Glitchmachines | 2 |
